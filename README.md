@@ -1,7 +1,7 @@
 # Search Engine Optimization and Access Refactoring
 
 ## Description
-This github was about refactoring a source html, to make it more semantic. This includes adding alt tags to images and changing divs to more appropriate elements. None of these changes altered the apperance of the site.
+This github was about refactoring a source html, to make it more semantic. This includes adding alt tags to images and changing divs to more appropriate elements. None of these changes altered the apperance of the site. This is an effort to make the website more accesible to screenreaders and more optimized in search engine algorithms.
 
 The site appears as follows.
 
@@ -9,8 +9,10 @@ The site appears as follows.
 
 ## Table of Contents
 [Installation](#installation)
+
 [Usage](#usage)
-[ChangeLog](#Change Log)
+
+[ChangeLog](#ChangeLog)
 
 ## Installation
 Download includes all assets and the index html file.
@@ -18,7 +20,7 @@ Download includes all assets and the index html file.
 ## Usage
 The page can be viewed at https://breakfastitem.github.io/AccessRefactoring/. It can also be viewed by opening index.html with a browser.
 
-## Change Log
+## ChangeLog
 Added header and footer elements.
 
 Changed div to nav for header nav bar.
