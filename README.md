@@ -29,4 +29,6 @@ Made title content specific to website.
 
 Added Id to search-engine-optimization to allow navbar to work correctly.
 
-I left the billboard element ass a div because I didn't feel that there was an appropiate html element for that type of object. It is a style trend to include a billboard image and there are no html elements designed for its purpose.
+Consolidated the css Classes to behave as classes not ids. For example changing benifit-lead etc.. to benifit because each benefit has the same style.
+
+I left the billboard element as a div because I didn't feel that there was an appropiate html element for that type of object. It is a style trend to include a billboard image and there are no html elements designed for its purpose.
