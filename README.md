@@ -34,4 +34,6 @@ Changed Content to actions to better describe the content in the section.
 
 All the classes in actions section had the same styling. Therefore I created a new class action and merged the 3 classes.
 
+Added Id's and classes to more specifically identify the html elements in the style sheet.
+
 I left the billboard element as a div because I didn't feel that there was an appropiate html element for that type of object. It is a style trend to include a billboard image and there are no html elements designed for its purpose.
