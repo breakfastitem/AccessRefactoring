@@ -49,7 +49,7 @@ Added Id's and classes to more specifically identify the html elements in the st
 
 I left the billboard element as a div because I didn't feel that there was an appropiate html element for that type of object. It is a style trend to include a billboard image and there are no html elements designed for its purpose.
 
-## credit
+## Credit
 Refactoring by Andrew Ehrman.
 
 Original File example provided by trilogy education services.
